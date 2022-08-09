@@ -36,7 +36,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://github.com/chrisdelmoro/42cursus/blob/main/images/born2beroot_lsblk.png))
+[![Partition Structure][lsblk-screenshot]]
+[![Monitoring Script][script-screenshot]]
 
 This project aims to introduce the student to the concepts of virtualization and systems administration. The objective is to create a virtual machine of a server with several services running.
 The student has to first choose between running the server on CentOS or on Debian Linux. After that, several things need to be implemented:
@@ -46,8 +47,16 @@ The student has to first choose between running the server on CentOS or on Debia
 * Install and configure sudo to follow sctrict rules;
 * A crom script to run every 10 minutes that is broadcasted to every user and shows several key informations about the system.
 
+For the bonus, the student has to implement at least one of the following:
+* A more elaborate partition structure such as the screenshot shows;
+* A wordpress server running on lighttpd, MariaDB and PHP;
+* A service of the studants choosing, as long as it isn't NGINX or Apache2.
+
+In my server, I choose to implement a FTP server together with the other services required.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: https://github.com/chrisdelmoro/42cursus/blob/main/images/born2beroot_lsblk.png
+[lsblk-screenshot]: https://github.com/chrisdelmoro/42cursus/blob/main/images/born2beroot_lsblk.png
+[script-screenshot]: (https://github.com/chrisdelmoro/42cursus/blob/main/images/born2beroot_script.png)
