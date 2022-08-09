@@ -59,4 +59,4 @@ In my server, I choose to implement a FTP server together with the other service
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [lsblk-screenshot]: https://github.com/chrisdelmoro/42cursus/blob/main/images/born2beroot_lsblk.png
-[script-screenshot]: (https://github.com/chrisdelmoro/42cursus/blob/main/images/born2beroot_script.png)
+[script-screenshot]: https://github.com/chrisdelmoro/42cursus/blob/main/images/born2beroot_script.png
