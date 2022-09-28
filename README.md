@@ -3,7 +3,7 @@
 <!-- PROJECT SHIELDS -->
 <br/>
 <p align="center">
-    <img src="https://github.com/chrisdelmoro/42cursus/blob/main/badges/born2berootm.png" alt="Logo" width="150" height="150">
+    <img src="https://github.com/chrisdelmoro/born2beroot/blob/main/resources/repo/born2berootm.png" alt="Logo" width="150" height="150">
 
   <p align="center">
     This is a systems administration and virtualization project.
@@ -58,5 +58,5 @@ In my server, I choose to implement a FTP server together with the other service
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[lsblk-screenshot]: https://github.com/chrisdelmoro/42cursus/blob/main/images/born2beroot_lsblk.png
-[script-screenshot]: https://github.com/chrisdelmoro/42cursus/blob/main/images/born2beroot_script.png
+[lsblk-screenshot]: https://github.com/chrisdelmoro/born2beroot/blob/main/resources/repo/born2beroot_lsblk.png
+[script-screenshot]: https://github.com/chrisdelmoro/born2beroot/blob/main/resources/repo/born2beroot_script.png
